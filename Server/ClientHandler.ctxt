@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ClientHandler
+comment1.params=s
+comment1.target=ClientHandler(java.net.Socket)
+comment10.params=
+comment10.target=void\ usporedi()
+comment11.params=f
+comment11.target=java.lang.String\ FileHandler(java.io.File)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ sortedList()
+comment4.params=
+comment4.target=void\ specifiranaPretraga()
+comment5.params=
+comment5.target=void\ createFolder()
+comment6.params=
+comment6.target=void\ kreiranjeTxt()
+comment7.params=
+comment7.target=void\ upisUText()
+comment8.params=
+comment8.target=void\ kopiranje()
+comment9.params=
+comment9.target=void\ sadrzaj()
+numComments=12
